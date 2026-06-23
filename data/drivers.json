@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Max Verstappen",
+    "team": "Red Bull Racing",
+    "country": "Netherlands"
+  },
+  {
+    "id": 2,
+    "name": "Lewis Hamilton",
+    "team": "Ferrari",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 3,
+    "name": "Charles Leclerc",
+    "team": "Ferrari",
+    "country": "Monaco"
+  }
+]
